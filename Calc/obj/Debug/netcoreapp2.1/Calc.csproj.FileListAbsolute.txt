@@ -1,0 +1,14 @@
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.AssemblyInfoInputs.cache
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.AssemblyInfo.cs
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Calc.deps.json
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Calc.runtimeconfig.json
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Calc.runtimeconfig.dev.json
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Calc.dll
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Calc.pdb
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.dll
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.pdb
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.csprojAssemblyReference.cache
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Rationale.dll
+C:\Users\mpape\source\repos\Calc\Calc\bin\Debug\netcoreapp2.1\Rationale.pdb
+C:\Users\mpape\source\repos\Calc\Calc\obj\Debug\netcoreapp2.1\Calc.csproj.CopyComplete
